@@ -1,6 +1,6 @@
-# 🏋️‍♂️ Gym Workout Generator 
+# Gym Workout Generator 
 
-Welcome to the **Gym Workout Generator** — your ultimate fitness companion for creating personalized workout plans! 🚀 Whether you're a beginner or a seasoned lifter, this app has got you covered.  
+Welcome to the **Gym Workout Generator** — your ultimate fitness companion for creating personalized workout plans! Whether you're a beginner or a seasoned lifter, this app has got you covered.  
 
  **Live Demo:** [Check it out here!](https://gym-rho-eight.vercel.app/)  
 
